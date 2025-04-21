@@ -36,8 +36,8 @@ CLI-инструмент для **извлечения** и **нормализа
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/nazarijbeketovv/tech_assignment_phone_parser.git
-cd tech_assignment_phone_parser
+git clone https://github.com/nazarijbeketovv/tech_assignment_agronout.git
+cd tech_assignment_agronout
 
 # Cоздаём виртуальное окружение
 python3.11 -m venv venv
